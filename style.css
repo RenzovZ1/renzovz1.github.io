@@ -109,9 +109,10 @@ th{
   border-collapse: collapse;
   table-layout: fixed;
   width: 99%;
+    }
 .stand td{
     border: 2px solid #4d4b4b;
-  }
+
 }
 .standen {
   float: center;
