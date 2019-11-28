@@ -1,0 +1,103 @@
+.header {
+  padding:10px;
+  text-align: left;
+  padding-left: 150px;
+  background: #006622;
+  color: white;
+  font-size: 12px;
+  font-family: "verdana", Monospace, sans-serif;
+}
+.menu {
+  text-align: center;
+  padding-left: 650px;
+  background: #004D1A;
+  color: white;
+  font-size: 15px;
+  font-family: "verdana", Monospace, sans-serif;
+  align-content: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #004D1A;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 30PX;
+  text-decoration: none;
+  font-family: "verdana", Monospace, sans-serif;
+}
+
+li a:hover {
+  background-color: #003311;
+}
+.column1 {
+  float: right;
+  text-align: center;
+  width: 30%;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 12px;
+    padding-right: 100px;
+}
+.column2 {
+  float: right;
+    text-align: center;
+  width: 30%;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 12px;
+}
+.column3 {
+  float: left;
+    text-align: center;
+  width: 30%;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+    font-family: "verdana", Monospace, sans-serif;
+}
+.nieuws {
+  float: center;
+    text-align: center;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 14px;
+}
+a { color: inherit; }
+.nieuws1 {
+  float: left;
+  padding-left: 100px;
+    text-align: center;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 14px;
+}
+.nieuws2 {
+  float: left;
+  padding-left: 65px;
+    text-align: center;
+    font-family: "verdana", Monospace, sans-serif;
+    font-size: 14px;
+}
+.footer {
+  padding-top:30px;
+  text-align: center;
+  padding-left: 150px;
+  background: #006622;
+  color: white;
+  font-size: 12px;
+  font-family: "verdana", Monospace, sans-serif;
+  padding-bottom: 100px;
+}
