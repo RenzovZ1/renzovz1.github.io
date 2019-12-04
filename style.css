@@ -1,0 +1,144 @@
+body {
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  margin: 0;
+}
+.header {
+  padding:10px;
+  text-align: left;
+  padding-left: 150px;
+  background: #006622;
+  color: white;
+}
+.menu {
+  text-align: center;
+  background: #004D1A;
+  color: white;
+  font-size: 16px;
+  align-content: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #004D1A;
+
+}
+
+li {
+  float: center;
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 30PX;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #003311;
+}
+
+.column {
+    text-align: center;
+  width: 33%;
+    display: inline-block;
+vertical-align: top;
+}
+
+.nieuws {
+  float: center;
+    text-align: center;
+    vertical-align: top;
+}
+a { color: inherit; }
+.nieuws1 {
+  width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 16px;
+}
+.nieuws2 {
+  width: 33%;
+  display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+}
+.footer {
+  padding-top:30px;
+  text-align: center;
+  background: #006622;
+  color: white;
+  font-size: 12px;
+  height: 47px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.wedstrijden {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+th{
+  text-align: center;
+}
+.stand {
+
+  width: 24%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+  
+}
+.stand table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 99%;
+
+}
+.standen {
+  float: center;
+    text-align: center;
+    vertical-align: top;
+}
+.samenvattingen {
+  float: center;
+    text-align: center;
+    vertical-align: top;
+}
+.samenvatting1 {
+  width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 16px;
+}
+.samenvatting2 {
+  width: 33%;
+  display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+}
+.samenvatting3 {
+  width: 33%;
+  display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+}
