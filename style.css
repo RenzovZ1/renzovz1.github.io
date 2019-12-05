@@ -142,3 +142,17 @@ th{
     font-size: 16px;
     vertical-align: top;
 }
+.standajax {
+
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+  
+}
+.standajax table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 99%;
+
+}
